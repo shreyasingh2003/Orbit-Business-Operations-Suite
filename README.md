@@ -1,8 +1,7 @@
 
 # 🚀 Orbit – Business Operations Suite
 
-![Orbit Dashboard](Screenshots/dashboard.png)
-
+![Dashboard](Screenshots/dashboard.png)
 ## Overview
 
 Orbit is a full-stack ERP and Business Intelligence platform that helps businesses manage sales, inventory, customers, finance, and analytics from a unified dashboard.
