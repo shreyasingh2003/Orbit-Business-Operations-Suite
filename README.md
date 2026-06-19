@@ -1,11 +1,13 @@
-# Orbit – Business Operations Suite
 
-![Uploading Screenshot 2026-06-19 220114.png…]()
+# 🚀 Orbit – Business Operations Suite
+
+![Orbit Dashboard](Screenshots/dashboard.png)
 
 ## Overview
-Orbit is a business operations and analytics platform designed to help small and growing businesses manage sales, inventory, customers, finance, and business insights from a single dashboard.
 
-The platform combines ERP functionality with Business Intelligence capabilities, enabling business owners to make data-driven decisions without relying on multiple disconnected tools.
+Orbit is a full-stack ERP and Business Intelligence platform that helps businesses manage sales, inventory, customers, finance, and analytics from a unified dashboard.
+
+It combines operational management with data-driven decision-making through forecasting, customer segmentation, KPI tracking, and business intelligence reporting.
 
 ## Problem Statement
 Many small businesses manage operations using spreadsheets, notebooks, and separate software tools. This leads to:
