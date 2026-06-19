@@ -1,5 +1,7 @@
 # Orbit – Business Operations Suite
 
+![Uploading Screenshot 2026-06-19 220114.png…]()
+
 ## Overview
 Orbit is a business operations and analytics platform designed to help small and growing businesses manage sales, inventory, customers, finance, and business insights from a single dashboard.
 
