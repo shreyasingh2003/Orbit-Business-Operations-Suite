@@ -1,7 +1,9 @@
-
+<img width="1913" height="844" alt="login png" src="https://github.com/user-attachments/assets/fcc801dd-5179-4895-acc9-ad6c7119aa5f" />
 # 🚀 Orbit – Business Operations Suite
 
-![Dashboard](Screenshots/dashboard.png)
+
+![Uploading login.png.png…]()
+
 ## Overview
 
 Orbit is a full-stack ERP and Business Intelligence platform that helps businesses manage sales, inventory, customers, finance, and analytics from a unified dashboard.
